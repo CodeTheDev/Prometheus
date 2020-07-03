@@ -5,6 +5,9 @@ This bot will have some moderation commands (kick, ban, mute, clear, logs), fun 
 
 The development of this bot is currently ongoing. More features soon to come!
 
+# TODO:
+- Fix old, unoptimized Java code. (I made this when I was in school on crappy computers that barely met minimum specifications for Windows 10, they shut-down every 30 minutes so give me a break.)
+
 # Development Log
 
 - Started Original Development | May 20th, 2019
